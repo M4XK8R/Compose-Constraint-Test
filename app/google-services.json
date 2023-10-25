@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "600085081780",
+    "firebase_url": "https://my-constraint-project-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "my-constraint-project",
+    "storage_bucket": "my-constraint-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600085081780:android:feb0c70452848f29f631e1",
+        "android_client_info": {
+          "package_name": "com.maxkor.myconstraintproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhCom3k_XeU_YpIM2AZKB_WKXX9oJ_rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
